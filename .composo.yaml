@@ -1,0 +1,18 @@
+app:
+  flavour:
+    lib: true
+  name:
+    class: Tornado
+    package: tornado
+    project: tornado
+author:
+  email: jan@hermes-technology.de
+  name: Jan Hermes
+cache_dir: /home/hermes/.cache/composo
+conf_dir: /home/hermes/.config/composo
+lang: python
+license: mit
+vcs:
+  git:
+    github:
+      name: JanSurft
